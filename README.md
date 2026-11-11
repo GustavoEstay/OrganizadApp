@@ -10,7 +10,7 @@ It works **with zero setup**. Visitors without Phantom land in a realistic demo 
 
 ![OrganizadApp in demo mode: balance, recent activity and the copilot explaining a sent transaction](docs/screenshot.png)
 
-**Live demo:** _coming soon_ <!-- replace with the Vercel URL once deployed -->
+**Live demo:** https://organizadapp.vercel.app
 
 ---
 
